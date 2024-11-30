@@ -12,7 +12,6 @@ Go to airflow login using:
 
 ![Alt](https://github.com/AdanALalawni/Weather/blob/main/ETL.png)
 This ETL will read weather data for London city(you can chamge city to your city) from openweather and save it in CSV format in local storage.
-
-##Note:
-change api_key to your key to use this ETL.
+## Note:
+change api_key in`config.json`to your key to use this ETL.
 
